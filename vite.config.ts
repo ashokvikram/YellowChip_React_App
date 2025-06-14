@@ -9,11 +9,13 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  
   plugins: [
     react(),
     mode === 'development' &&
     componentTagger(),
   ].filter(Boolean),
+  base: "/YellowChip_React_App",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
