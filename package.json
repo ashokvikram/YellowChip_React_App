@@ -1,6 +1,6 @@
 {
-  "name": "vite_react_shadcn_ts",
-        "homepage": "https://ashokvikram.github.io/YellowChip_React_App/",
+  "name": "YellowChip",
+   "homepage": "https://ashokvikram.github.io/YellowChip_React_App/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
