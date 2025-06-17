@@ -55,7 +55,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0 flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/405966e3-3a19-4dee-81b4-2ee11eda1ce0.png" 
+              src="./lovable-uploads/405966e3-3a19-4dee-81b4-2ee11eda1ce0.png" 
               alt="YellowChip Logo" 
               className="h-10 w-auto"
             />

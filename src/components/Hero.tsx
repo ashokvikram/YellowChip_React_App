@@ -25,7 +25,7 @@ const Hero = () => {
       {/* Professional IT Background Image */}
       <div className="absolute inset-0">
         <img 
-          src="/lovable-uploads/Hero_1.png" 
+          src="./lovable-uploads/Hero_1.png" 
           alt="Professional workspace with glasses and laptop" 
           className="w-full h-full object-cover opacity-90"
         />
