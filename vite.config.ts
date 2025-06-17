@@ -14,7 +14,8 @@ export default defineConfig(({ mode }) => ({
     mode === 'development' &&
     componentTagger(),
   ].filter(Boolean),
-  resolve: {
+   base:"/YellowChip_React_App/", 
+    resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
